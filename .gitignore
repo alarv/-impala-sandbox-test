@@ -12,10 +12,10 @@
 /build
 
 # webstorm
-/idea/workspace.xml
-/idea/tasks.xml
-/idea/usage.statistics.xml
-/idea/shelf
+/.idea/workspace.xml
+/.idea/tasks.xml
+/.idea/usage.statistics.xml
+/.idea/shelf
 
 
 # misc
@@ -28,3 +28,4 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
